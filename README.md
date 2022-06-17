@@ -36,12 +36,15 @@ I have been working in web development for 2 years. I am familiar with new and a
 </p>
 
 
-<a href="https://app.daily.dev/mhdi_nzari"><img src="https://api.daily.dev/devcards/07b4bcfdcf2e41a58b5233f2d0352054.png?r=mqh" width="400" alt="mahdi nazari's Dev Card"/></a>
+
 
 ### Socials
 
 <p align="left"> <a href="https://www.dribbble.com/mhdi_nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/mhdi-nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mhdi_nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mhdi-nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
+/></a>
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -53,7 +56,5 @@ I have been working in web development for 2 years. I am familiar with new and a
 <a href="http://www.github.com/mhdi-nzari"><img src="https://activity-graph.herokuapp.com/graph?username=mhdi-nzari&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
+<a href="https://app.daily.dev/mhdi_nzari"><img src="https://api.daily.dev/devcards/07b4bcfdcf2e41a58b5233f2d0352054.png?r=mqh" width="400" alt="mahdi nazari's Dev Card"/></a>
 
-<a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
-/></a>
