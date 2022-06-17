@@ -13,9 +13,6 @@ I have been working in web development for 2 years. I am familiar with new and a
 * 🤝  I'm open to collaborating on Startups and novice teams
 * ⚡  I am very interested in security and reading books
 
-<a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
-/></a>
 
 ### Skills
 
@@ -54,3 +51,9 @@ src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the
 <a href="http://www.github.com/mhdi-nzari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdi-nzari&stroke=ffffff&background=181824&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/mhdi-nzari"><img src="https://activity-graph.herokuapp.com/graph?username=mhdi-nzari&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+<a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
+/></a>
