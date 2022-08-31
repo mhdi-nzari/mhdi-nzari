@@ -47,7 +47,7 @@ src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the
 /></a>
 
 
-Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mhdi-nzari
+
 ### Badges
 
 <b>My GitHub Stats</b>
