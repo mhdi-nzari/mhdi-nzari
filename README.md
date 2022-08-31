@@ -46,24 +46,8 @@ I have been working in web development for 2 years. I am familiar with new and a
 src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
 
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mhdi-nzari" target="_blank">Follow on LinkedIn</a>
+
+Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=mhdi-nzari
 ### Badges
 
 <b>My GitHub Stats</b>
