@@ -4,7 +4,7 @@ Hi 👋 My name is Mahdi Nazari
 Designer & WebDeveloper
 -----------------------
 
-I have been working in web development for 2 years. I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻
+I have been working in web development for 3 years at 2019. I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻
 
 * 🌍  I'm based in Iran,Esfehan,Kashan
 * 🖥️  See my portfolio at [My Website & Portfolio](http://mahdi-nazari.ir)
