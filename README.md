@@ -22,6 +22,8 @@
 <a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
+
+ [![](https://visitcount.itsvg.in/api?id=MRezaSafari&icon=0&color=0)](https://visitcount.itsvg.in)
   
 ## 🛠  My Stack
 
