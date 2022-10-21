@@ -45,7 +45,7 @@ src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the
 </p>
 ## 🚉 Statistics
 
-<p align = "center">
+<p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=nimahkh&show_icons=true&theme=radical&line_height=40">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nimahkh&theme=radical">
 </p>
