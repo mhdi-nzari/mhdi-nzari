@@ -49,12 +49,9 @@ src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the
   <img  src = "https://github-readme-stats.vercel.app/api?username=nimahkh&show_icons=true&theme=radical&line_height=40">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nimahkh&theme=radical">
 </p>
+## GitHub Stats
 
 
-
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mhdi-nzari"><img src="https://github-readme-stats.vercel.app/api?username=mhdi-nzari&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="mhdi-nzari's GitHub stats" /></a>
 
