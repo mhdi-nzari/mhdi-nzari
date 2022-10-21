@@ -1,11 +1,9 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=hI%2C+therE%F0%9F%96%90%EF%B8%8F+welcomE+tO+mY+githuB+pagE;Im+Mahdi+Nazari+and+...+;Nice+To+See+You+" alt="Typing SVG" /></a>
 </h1>
-=============================
 
-Designer & WebDeveloper
+🤔 About Me :
 -----------------------
-
 I've been working as a web developer for 3 years. from 2019. I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻
 
 * 🌍  I'm based in Iran,Esfehan,Kashan
@@ -14,8 +12,7 @@ I've been working as a web developer for 3 years. from 2019. I am familiar with 
 * 🧠  I'm learning React & Redux - TailwindCss
 * 🤝  I'm open to collaborating on Startups and novice teams
 * ⚡  I am very interested in security and reading books
-
-
+-----------------------
 ### Skills
 
 <p align="left">
