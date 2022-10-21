@@ -61,5 +61,5 @@ src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the
 <a href="http://www.github.com/mhdi-nzari"><img src="https://activity-graph.herokuapp.com/graph?username=mhdi-nzari&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-<a href="https://app.daily.dev/mhdi_nzari"><img src="https://api.daily.dev/devcards/07b4bcfdcf2e41a58b5233f2d0352054.png?r=mqh" width="400" alt="mahdi nazari's Dev Card"/></a>
+<a href="https://app.daily.dev/mhdi_nzari"><img src="https://api.daily.dev/devcards/07b4bcfdcf2e41a58b5233f2d0352054.png?r=mqh" width="400" width="400" alt="mahdi nazari's Dev Card"/></a>
 
