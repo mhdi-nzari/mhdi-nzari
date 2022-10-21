@@ -3,6 +3,8 @@
 </h1>
 
 
+
+
 # 🤔 About Me
 
 I've been working as a web developer for 3 years. from 2019. I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻
