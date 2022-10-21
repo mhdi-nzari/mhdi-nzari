@@ -22,6 +22,9 @@ I've been working as a web developer for 3 years. from 2019. I am familiar with 
 <a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
+<a href="https://www.instagram.com/mhdi_nzari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/instagram/follow/mhdi_nzari?logo=instagram&style=for-the-badge&color=22c55e&labelColor=181824"
+/></a>
 ## 🛠  My Stack
 
 <p align="left">
