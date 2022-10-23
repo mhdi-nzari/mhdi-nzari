@@ -1,5 +1,5 @@
 <h1 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&width=600&color=F7F7F7&background=FFFFFF00&width=435&lines=hI%2C++welcomE+tO+mY+githuB+pagE;Im+Mahdi+Nazari+and+...+;Nice+To+See+You+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&width=600&color=F7F7F7&background=FFFFFF00&width=435&lines=hI%2C+welcomE+tO+mY+githuB+pagE;Im+Mahdi+Nazari+;Nice+To+See+You" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -70,7 +70,7 @@ src="https://img.shields.io/twitter/follow/mhdi_nzari?logo=twitter&style=for-the
 
 
 <p align="left">
-<a href="https://https://www.linkedin.com/in/mhdi-nzari/"><img src="https://img.shields.io/badge/-nimahkh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://https://www.linkedin.com/in/mhdi-nzari/"><img src="https://img.shields.io/badge/-MahdiNazari Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nazarii.eng@gmail.com"><img src="https://img.shields.io/badge/-nazarii.eng@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
