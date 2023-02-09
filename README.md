@@ -7,7 +7,7 @@
 
 <h2> Who am Im !? </h2>
 
-> I'am mahdi From Iran and I do content on Development . I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GitHub and LinkedIn | My Favorite: interest in learning new language and framework and training, teamwork 😍 and team leadership 🧑‍💻 | I also enjoy wireframing , ui,ux and design general . You can checkout my Instagram at [instagram.com/mhdi_nzari](http://instagram.com/mhdi_nzari) and linkedin at [linkedin.com/in/mhdi-nzari/](http://linkedin.com/in/mhdi-nzari/)
+> I'am mahdi From Iran and I do content on Development . I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GitHub and LinkedIn | My Favorite: interest in learning new language and framework and training, teamwork 😍 and team leadership 🧑‍💻 | I also enjoy wireframing , ui,ux and design general . You can checkout my Instagram at instagram.com/mhdi_nzari and linkedin at linkedin.com/in/mhdi-nzari/
 > 
 
 <h3>😁&nbsp;About me</h3>
@@ -30,33 +30,21 @@
 
 * 🌍  Html | Css | Scss,Sass | Responsive Design
 * ⚙  grunt | Gulp | Webpack | Vite
-* 🧠  Javascript | Jquery | Reactjs | Redux
-* 🎨  Figma | ziplin | Xd
+* 🧠  Javascript | Jquery | Reactjs
+* 🎨  Figma | zipline | Xd
 
 
     
-## ♦️  Statistics
+## ♦️  
+<h3>🔰&nbsp;Statistics</h3>
   
 <p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=mhdi-nzari&show_icons=true&theme=mhdi-nzari&line_height=40">
   <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mhdi-nzari&theme=radical">
 </p>
-  
-## 🚀 GitHub Stats
-
-  <a href="http://www.github.com/mhdi-nzari"><img src="https://github-readme-stats.vercel.app/api?username=mhdi-nzari&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="mhdi-nzari's GitHub stats" /></a>
-
-  <a href="http://www.github.com/mhdi-nzari"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdi-nzari&stroke=ffffff&background=181824&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-  
-<a href="http://www.github.com/mhdi-nzari"><img src="https://activity-graph.herokuapp.com/graph?username=mhdi-nzari&bg_color=181824&color=ffffff&line=22c55e&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-<a href="https://app.daily.dev/mhdi_nzari"><img src="https://api.daily.dev/devcards/07b4bcfdcf2e41a58b5233f2d0352054.png?r=mqh" width="400" width="400" alt="mahdi nazari's Dev Card"/></a>
 
 
 ## 🤙Contact Me
-
 
 <p align="left">
 <a href="https://https://www.linkedin.com/in/mhdi-nzari/"><img src="https://img.shields.io/badge/-MahdiNazari Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
