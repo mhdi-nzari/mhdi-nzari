@@ -7,7 +7,8 @@
 
 # 🤔 Who am Im?
 
-> I've been working as a web developer for 3 years. from 2019. I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻 | I also enjoy wireframing , ui,ux and design general . You can checkout my Instagram at instagram.com/mhdi_nzari and linkedin at linkedin.com/in/mhdi-nzari/
+> I'am mahdi From Iran and I do content on Development . I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GitHub and LinkedIn | My Favorite: interest in learning new language and framework and training, teamwork 😍 and team leadership 🧑‍💻 | I also enjoy wireframing , ui,ux and design general . You can checkout my Instagram at instagram.com/mhdi_nzari and linkedin at linkedin.com/in/mhdi-nzari/
+> 
 
 * 🌍  I'm based in Iran,Esfehan,Kashan
 * 🖥️  See my portfolio at [My Website & Portfolio](http://mahdi-nazari.ir)
@@ -15,6 +16,7 @@
 * 🤝  I'm open to collaborating on Startups and novice teams
 * ⚡  I am very interested in security and reading books
 * ✉️  You can contact me at [nazarii.eng@gmail.com](mailto:nazarii.eng@gmail.com)
+<br/>
 ## 📱Socials
 
 <p align="left"> <a href="https://www.dribbble.com/mhdi_nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/mhdi-nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mhdi_nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mhdi-nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mhdi_nzari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
