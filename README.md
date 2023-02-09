@@ -19,7 +19,6 @@
 * ⚡  I am very interested in security and reading books
 * ✉️  You can contact me at [nazarii.eng@gmail.com](mailto:nazarii.eng@gmail.com)
 * 
-<br/>
 
  <h3>📱 My Socials </h3>
 
