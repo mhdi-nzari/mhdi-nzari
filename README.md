@@ -24,7 +24,7 @@
 - My Page at [linkedin](https://www.linkedin.com/in/mhdi-nzari/)
 - My page at [Instagram](https://www.instagram.com/mhdi_nzari/)
 - My page at [Twitter](https://twitter.com/mhdi_nzari)
-- My page at [Telegram](https://t.me/mhdi_nzari)
+- You Can Dm to [Telegram](https://t.me/mhdi_nzari)
   
 ## 🛠  My Stack
 
