@@ -7,7 +7,7 @@
 
 # 🤔 Who am Im?
 
-> I've been working as a web developer for 3 years. from 2019. I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻
+> I've been working as a web developer for 3 years. from 2019. I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻 | I also enjoy wireframing , ui,ux and design general . You can checkout my Instagram at instagram.com/mhdi_nzari and linkedin at linkedin.com/in/mhdi-nzari/
 
 * 🌍  I'm based in Iran,Esfehan,Kashan
 * 🖥️  See my portfolio at [My Website & Portfolio](http://mahdi-nazari.ir)
