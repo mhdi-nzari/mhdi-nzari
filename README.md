@@ -30,7 +30,7 @@
 
 * 🌍  Html | Css | Scss,Sass | Responsive Design
 * ⚙  grunt | Gulp | Webpack | Vite
-* 🧠  Javascript | Jquery | Reactjs
+* 🧠  Javascript | Jquery | Reactjs | Redux
 * 🎨  Figma | ziplin | Xd
 
 
