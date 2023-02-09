@@ -18,7 +18,6 @@
 * 🤝  I'm open to collaborating on Startups and novice teams
 * ⚡  I am very interested in security and reading books
 * ✉️  You can contact me at [nazarii.eng@gmail.com](mailto:nazarii.eng@gmail.com)
-* 
 
  <h3>📱 My Socials </h3>
 
