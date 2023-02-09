@@ -33,9 +33,6 @@
 * 🧠  Javascript | Jquery | Reactjs
 * 🎨  Figma | zipline | Xd
 
-
-    
-## ♦️  
 <h3>🔰&nbsp;Statistics</h3>
   
 <p align = "left">
