@@ -21,7 +21,8 @@
 
  <h3>📱 My Socials </h3>
 
-- My business at [linkedin](https://www.linkedin.com/in/mhdi-nzari/)
+- My Page at [linkedin](https://www.linkedin.com/in/mhdi-nzari/)
+- My page at [Instagram](https://www.instagram.com/mhdi_nzari/)
   
 ## 🛠  My Stack
 
