@@ -28,8 +28,8 @@
   
 <h3>🔨&nbsp;Teach Stack</h3>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mhdi-nzari.visitor-badge&left_text=MyPageVisitors)
 
+![](https://vbr.wocr.tk/badge?page_id=mhdi-nzari.visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
 
 
 * 🌍  Html | Css | Scss,Sass | Responsive Design
