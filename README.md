@@ -26,10 +26,10 @@
 - My page at [Twitter](https://twitter.com/mhdi_nzari)
 - You Can Dm to [Telegram](https://t.me/mhdi_nzari)
   
-<h3>🔨&nbsp;Teach Stack</h3>
+<h3>🔨&nbsp;Teach Stack</h3> &nbsp;&nbsp; ![](https://vbr.wocr.tk/badge?page_id=mhdi-nzari.visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
 
 
-![](https://vbr.wocr.tk/badge?page_id=mhdi-nzari.visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+
 
 
 * 🌍  Html | Css | Scss,Sass | Responsive Design
