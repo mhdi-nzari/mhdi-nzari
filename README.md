@@ -26,14 +26,15 @@
 - My page at [Twitter](https://twitter.com/mhdi_nzari)
 - You Can Dm to [Telegram](https://t.me/mhdi_nzari)
   
-<h3>🔨&nbsp;Teach Stack</h3>
+<h3>🔨&nbsp;Teach Stack</h3> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+
 
 * 🌍  Html | Css | Scss,Sass | Responsive Design
 * ⚙  grunt | Gulp | Webpack | Vite
 * 🧠  Javascript | Jquery | Reactjs
 * 🎨  Figma | zipline | Xd
 
-<h3>🔰&nbsp;Statistics</h3>
+<h3>🔰&nbsp;Statistics </h3>
   
 <p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=mhdi-nzari&show_icons=true&theme=mhdi-nzari&line_height=40">
