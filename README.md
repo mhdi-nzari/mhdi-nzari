@@ -28,7 +28,7 @@
   
 <h3>🔨&nbsp;Teach Stack</h3>
 
-![](https://vbr.wocr.tk/badge?page_id=mhdi-nzari.visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+
 
 
 
@@ -40,6 +40,9 @@
 * 🎨  Figma | zipline | Xd
 
 <h3>🔰&nbsp;Statistics </h3>
+
+![](https://vbr.wocr.tk/badge?page_id=mhdi-nzari.visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+##
   
 <p align = "left">
   <img  src = "https://github-readme-stats.vercel.app/api?username=mhdi-nzari&show_icons=true&theme=mhdi-nzari&line_height=40">
