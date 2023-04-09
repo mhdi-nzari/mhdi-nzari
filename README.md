@@ -34,9 +34,9 @@
 
 
 
-* 🌍  Html | Css | Scss,Sass | Responsive Design
-* ⚙  grunt | Gulp | Webpack | Vite
-* 🧠  Javascript | Jquery | Reactjs
+* 🌍  Html | Css | Scss,Sass | Responsive Design | Bem
+* ⚙   grunt | Gulp | Webpack | Vite
+* 🧠 Jquery | Javascript| Reactjs | Nextjs
 * 🎨  Figma | zipline | Xd
 
 <h3>🔰&nbsp;Statistics </h3>
