@@ -22,24 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mhdi-nzari&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mhdi_nzari)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mhdi-nzari&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-
 [![](https://visitcount.itsvg.in/api?id=mhdi-nzari&icon=0&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahdinazari) 
-
-  [![Zarinpal Donation](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](http://zarinp.al/mahdi-nazari) 
-
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
